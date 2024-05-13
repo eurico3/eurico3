@@ -4,33 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Two Column Layout</title>
-<style>
-    .container {
-        display: flex;
-    }
-    
-    .column {
-        flex: 1;
-        padding: 20px;
-        border: 1px solid #ccc;
-    }
-    
-    /* Optional: Style to make it look nicer */
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
-    
-    .container {
-        max-width: 960px;
-        margin: 0 auto;
-    }
-    
-    h1 {
-        text-align: center;
-    }
-</style>
+
 </head>
 <body>
 
