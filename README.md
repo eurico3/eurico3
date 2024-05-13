@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/euricopaes/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt='Twitter'>
 </a>
--->
+
 <p>
 $$ {J(\theta) =\frac{1}{2m} [\sum^m_{i=1}(h_\theta(x^{(i)}) - y^{(i)})2 + \lambda\sum^n_{j=1}\theta^2_j} $$
 </p>
+-->
 <a href="https://github.com/eurico3/eurico3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico3&&layout=compact&bg_color=00000000&text_color=#fafafa" />
 </a>
