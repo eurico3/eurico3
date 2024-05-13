@@ -1,18 +1,6 @@
 
-<div class="container">
-    <div class="column">
-        <h2>Column 1</h2>
-        <p>This is the content of column 1.</p>
-    </div>
-    <div class="column">
-        <h2>Column 2</h2>
-        <p>This is the content of column 2.</p>
-    </div>
-</div>
-
-
 <a href="https://github.com/eurico3/eurico3">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico3&&layout=compact&bg_color=00000000&text_color=#ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico3&&layout=compact&bg_color=00000000&text_color=#FFFFFF" />
 </a>
 
 
