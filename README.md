@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 $$ {J(\theta) =\frac{1}{2m} [\sum^m_{i=1}(h_\theta(x^{(i)}) - y^{(i)})2 + \lambda\sum^n_{j=1}\theta^2_j} $$
 </p>
 <a href="https://github.com/anselal/anselal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselal&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico3&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
 </a>
 
 
