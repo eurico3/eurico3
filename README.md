@@ -1,6 +1,6 @@
 
 <a href="https://github.com/eurico3/eurico3">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico3&&layout=compact&bg_color=00000000&text_color=#FFFFGF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico3&&layout=compact&bg_color=00000000&text_color=#FFFFGF&hide_border=true" />
 </a>
 
 
