@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Two Column Layout</title>
-
-</head>
-<body>
 
 <div class="container">
     <div class="column">
@@ -19,8 +10,7 @@
     </div>
 </div>
 
-</body>
-</html>
+
 <a href="https://github.com/eurico3/eurico3">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico3&&layout=compact&bg_color=00000000&text_color=#ffffff" />
 </a>
