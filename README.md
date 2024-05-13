@@ -25,7 +25,7 @@ $$ {J(\theta) =\frac{1}{2m} [\sum^m_{i=1}(h_\theta(x^{(i)}) - y^{(i)})2 + \lambd
 </p>
 -->
 <a href="https://github.com/eurico3/eurico3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico3&&layout=compact&bg_color=00000000&text_color=#fafafa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico3&&layout=compact&bg_color=00000000&text_color=#fafafa" />
 </a>
 
 
